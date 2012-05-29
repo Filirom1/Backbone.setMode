@@ -2,7 +2,7 @@ Backbone.setMode
 ================
 
 Backbone plugin: setMode.
-Forked from [DocumentSource](https://github.com/documentcloud/documentcloud/blob/master/public/javascripts/lib/backbone_extensions.js#L8)
+Forked from [DocumentCloud](https://github.com/documentcloud/documentcloud/blob/master/public/javascripts/lib/backbone_extensions.js#L8)
 
 Makes the view enter a mode. Modes have both a 'mode' and a 'group',
 and are mutually exclusive with any other modes in the same group.
